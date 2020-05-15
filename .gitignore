@@ -123,3 +123,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Figures
+fig/
+
+# Configuration of Pycharm
+.idea
